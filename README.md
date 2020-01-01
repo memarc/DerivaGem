@@ -1,5 +1,5 @@
 # DerivaGem
-The options calculator and applications builder for readers of *Options, Futures and Other Derivatives* and *Fundamentals of Futures and Options Markets* by John D. Hull.
+The options calculator and applications builder spreadsheets for *Options, Futures and Other Derivatives* and *Fundamentals of Futures and Options Markets* by John C. Hull.
 
 
 ## DerivaGem 4.00
