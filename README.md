@@ -2,6 +2,17 @@
 The options calculator and applications builder spreadsheets for *Options, Futures and Other Derivatives* and *Fundamentals of Futures and Options Markets* by John C. Hull.
 
 
+## DerivaGem 4.00a
+Accompanied the 11th edition of *Options, Futures, and Other Derivatives* by John C. Hull.
+* Files can be found in the `DG400a/` directory.
+* `DG400a/DG400a.zip` retrieved from https://www-2.rotman.utoronto.ca/~hull/software/DG400a.zip on 2022-06-29.
+    SHA256: `8aa550b3501d04f678c716511ed56526221085275b829a4f5383ec92c4e945db`
+* `DG400a/unzipped/` contains the unzipped files (Excel spreadsheets).
+    * The Options Calculator (`DG400a.xls`) is used to carry out computations for equity, currency, index, and futures options.
+    * The Applications Builder (`DG400 functions.xls`) contains functions that can be used to build applications
+    * The Applications file (`DG400 Applications.xls`) contains sample applications created using the Application Builder.
+
+
 ## DerivaGem 4.00
 Accompanied the 10th edition of *Options, Futures, and Other Derivatives* by John C. Hull.
 * Files can be found in the `DG400/` directory.
